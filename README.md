@@ -1,4 +1,4 @@
 # resume
  My resume
-Изменить php на python
-Поставить Education ниже
+1. Изменить php на python
+2. Поставить Education ниже
